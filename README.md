@@ -44,4 +44,3 @@ py -m pytest --cov=src --cov-report=html
 - Alireza Hasani
 - Amir Bagheri
 - Mohamad reza Zarei
-  ...
