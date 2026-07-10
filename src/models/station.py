@@ -1,4 +1,4 @@
-from models.air_data import AirData
+from src.models.air_data import AirData
 
 class Station:
     def collect_data(self):
