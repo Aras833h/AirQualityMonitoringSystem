@@ -39,3 +39,9 @@ py -m pytest
 ```bash
 py -m pytest --cov=src --cov-report=html
 ```
+## Team Members
+
+- Alireza Hasani
+- Amir Bagheri
+- Mohamad reza Zarei
+  ...
